@@ -13,3 +13,8 @@ What do I want to know?
 * Whether the plants were successful in previous years
 
 So let's start with CRUD for plants.
+
+# Running
+
+Run using `python -m flask --app garden_flask run` or `flask --app garden_flask run`
+During development append `--debug` to auto-reload after changing files.
